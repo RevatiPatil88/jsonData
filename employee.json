@@ -1,0 +1,41 @@
+{
+    "companyName": "Accenture",
+    "Department": "Development",
+    "Team-Name": "Kung-Fuu-Dev",
+    "Team-size": 12,
+    "Members": [
+        {
+            "name": "John Doe",
+            "age": 25,
+            "email": "john@dev.com",
+            "address": {
+                "street": "123 Main st",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "123456"
+            }
+        },
+        {
+            "name": "Mary Rachel",
+            "age": 23,
+            "email": "maryy@rl.com",
+            "address": {
+                "street": "23 JP road",
+                "city": "CapeTown",
+                "state": "MN",
+                "zip": "234534"
+            }
+        },
+        {
+            "name": "Doemon Kofr",
+            "age": 30,
+            "email": "doemon@k.com",
+            "address": {
+                "street": "03 KC Street",
+                "city": "Mojreo",
+                "state": "IF",
+                "zip": "127734"
+            }
+        }
+    ]
+}
